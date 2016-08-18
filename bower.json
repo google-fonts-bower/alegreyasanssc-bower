@@ -1,0 +1,17 @@
+{
+    "name": "alegreyasanssc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Juan Pablo del Peral"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/alegreyasanssc-bower.git"
+    },
+    "description": "Alegreya Sans SC font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
